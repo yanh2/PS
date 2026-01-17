@@ -4,8 +4,8 @@
 ### :sparkles:commit
 - 커밋 메세지 : [문제 출처 플랫폼] 문제이름 / 난이도
 ```
-git commit -m "[BOJ] Hello / 실버1"
-git commit -m "[PGS] Hello / Lv.1"
+git commit -m "Hello / 실버1"
+git commit -m "Hello / Lv.1"
 ```
 - 플랫폼 작성법  
   - [BOJ] - 백준  
