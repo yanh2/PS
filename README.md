@@ -5,7 +5,7 @@
 - 커밋 메세지 : [문제 번호] 문제이름 / 난이도
 ```
 git commit -m "[1234] Hello / 실버1"
-git commit -m "[1234] Hello / Lv.1"
+git commit -m "Hello / Lv.1"
 ```
 - 플랫폼 작성법  
   - [BOJ] - 백준  
