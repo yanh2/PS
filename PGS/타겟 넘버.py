@@ -9,7 +9,7 @@ def dfs(numbers, target, sum, index):
     dfs(numbers, target, sum+numbers[index], index+1)
     dfs(numbers, target, sum-numbers[index], index+1)
 
-def solution(nu7mbers, target):
+def solution(numbers, target):
     dfs(numbers, target, 0, 0)
     
     return answer

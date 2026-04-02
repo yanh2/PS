@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 def solution(n, computers):
     def dfs(x):
         visited[x] = True
